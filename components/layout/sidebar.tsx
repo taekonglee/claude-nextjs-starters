@@ -8,8 +8,8 @@ import { cn } from "@/lib/utils";
 /** 사이드바 네비게이션 항목 정의 */
 const navItems = [
   { href: "/dashboard", icon: LayoutDashboard, label: "대시보드" },
-  { href: "/dashboard/analytics", icon: BarChart3, label: "분석" },
-  { href: "/dashboard/settings", icon: Settings, label: "설정" },
+  { href: "/analytics", icon: BarChart3, label: "분석" },
+  { href: "/settings", icon: Settings, label: "설정" },
 ];
 
 interface SidebarProps {
