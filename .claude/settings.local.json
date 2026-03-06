@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Web Search",
+      "WebFetch",
+      "Bash",
+      "Bash(npm install:*)",
+      "Bash(npx shadcn@latest:*)"
+    ]
+  }
+}
