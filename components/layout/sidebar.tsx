@@ -12,7 +12,7 @@ const navItems = [
   { href: "/settings", icon: Settings, label: "설정" },
 ];
 
-interface SidebarProps {
+export interface SidebarProps {
   className?: string;
   /** 링크 클릭 시 호출되는 콜백 (모바일 Sheet 닫기용) */
   onNavClick?: () => void;
