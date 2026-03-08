@@ -42,5 +42,3 @@ next-env.d.ts
 
 # claude code local settings
 .claude/settings.local.json
-.claude/agents/
-.claude/agent-memory/
