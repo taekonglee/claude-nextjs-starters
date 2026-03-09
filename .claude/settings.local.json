@@ -6,7 +6,11 @@
       "Bash",
       "Bash(npm install:*)",
       "Bash(npx shadcn@latest:*)",
-      "mcp__playwright"
+      "mcp__playwright",
+      "mcp__sequential-thinking",
+      "mcp__shadcn",
+      "Skill(git:commit)",
+      "mcp__memory"
     ]
   },
   "enableAllProjectMcpServers": true,
